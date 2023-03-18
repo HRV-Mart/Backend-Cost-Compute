@@ -8,6 +8,7 @@ class BackendCostComputeApplicationTests {
 
     @Test
     fun contextLoads() {
+        main(emptyArray())
     }
 
 }
